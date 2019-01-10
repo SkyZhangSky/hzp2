@@ -1,0 +1,199 @@
+/* CSS Document */
+
+* {
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+}
+ul {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+img {
+	border: 0px;
+}
+body{background: #f4f4f4;}
+#logo {
+	height: 105px;
+	margin: 0px auto;
+}
+#bei {
+	position: relative;
+}
+#logos {
+	position: absolute;
+	left: 314px;
+	top: 24px;
+}
+#wei {
+	position: absolute;
+	left: 1170px;
+	top: 40px;
+	width: 130px;
+	height: 24px;
+}
+#wei li {
+	width: 54px;
+	height: 24px;
+	float: left;
+	margin-left: 7px;
+}
+#dao {
+	height: 44px;
+	margin: 0px auto;
+	background: #b0391f
+}
+#flash {
+	height: 345px;
+	margin: 0px auto;
+	position: relative;
+}
+
+.hds {
+	width: 80px;
+	height: 20px;
+	position: absolute;
+	z-index: 100;
+	top: 294px;
+	right: 100px;
+}
+.hds li {
+	width: 20px;
+	height: 20px;
+	float: left;
+	margin-left: 3px;
+	background: url(../images/aasdx.png);
+}
+.hds li:hover,.hds li.on {
+	background: url(../images/das.png) no-repeat;
+	z-index: 100;
+	display: block;
+}
+.bds ul {
+	position: relative;
+	height: 345px;
+}
+.bds li {
+	width: 1600px;
+	height: 345px;
+	
+}
+
+.news {
+	width: 980px;
+	height: 323px; 
+	background:#FFF; 
+	margin:29px auto;
+	
+	 
+}
+.tuwen{
+	width: 353px;
+	height: 293px; float:left; margin-top:30px; margin-left:15px;
+	}
+	/*------------------------------------------------------------------*/
+.new{width: 368px;
+	height: 148px; 
+	margin-top:21px; 
+	margin-bottom:31px;
+	
+	
+	}
+		/*------------------------------------------------------------------*/
+.flashs{
+	width: 168px;
+	height: 131px;
+	 float:left;
+	
+	 }
+.hdd {
+	width: 80px;
+	height: 20px;
+	 margin-left:40px;
+	/*position: absolute;
+	z-index: 100;
+	top: 130px;
+	left:35px;*/
+}
+.hdd li {
+	width: 20px;
+	height:20px;
+	float: left;
+	margin-left: 3px;
+	background: url(../images/aasdx.png);
+}
+.hdd li:hover,.hdd li.on {
+	background: url(../images/das.png) no-repeat;
+	z-index: 100;
+	display: block;
+}
+	/*------------------------------------------------------------------*/
+.bdd {
+	
+	width: 168px;
+	height: 131px;
+}
+.bdd ul li {
+	width: 168px;
+	height: 131px; 
+	
+}
+	
+	/*------------------------------------------------------------------*/	
+.newss{width: 368px;
+	height: 33px; background: url(../images/aasccnn_25.jpg) no-repeat;  }
+	/*------------------------------------------------------------------*/
+.ri{ float:left; font-size:12px; color:#a0a0a0;margin-left:10px;}
+.kan{ float:right;font-size:12px; color:#a0a0a0;margin-right:10px;}
+.kan a:link{ color:#a0a0a0;}
+.kan a:hover{ color:#d55c31;}
+	/*------------------------------------------------------------------*/
+.text{  float:right; width:181px; height:139px; }
+.red{ font-size:15px; font-family: "微软雅黑"; color:#d55c31; margin-top:5px;}
+.reds{ font-size:12px; font-family:"微软雅黑"; color: #bfbfbf; text-indent:20px;margin-top:5px;}
+.reds a:link{ font-size:12px; font-family:"微软雅黑"; color: #bfbfbf; text-indent:20px;margin-top:5px;}
+.reds a:hover{  color: #330; }
+
+
+.name{width: 328px;
+	height: 293px;
+	float:left; margin-left:35px; margin-right:28px;margin-top:30px;
+	}
+.names{width: 328px;
+	height: 230px; margin-top:22px;}
+	.names li{width: 328px;
+	height: 65px; margin-top:9px; 
+}
+.left{ float:left}
+.right{ float:right; margin-top:19px; margin-right:28px;}
+.right a:link{ font-size:12px; font-family:"微软雅黑"; color: #bfbfbf; ;}
+.right a:hover{  color: #330; }
+.sex{
+	width: 211px;
+	height: 293px;
+	float:left;margin-top:30px;
+	}
+	.sex1{ margin-top:25px; float:left;}
+.sex2{ width: 176px;
+	height:267px;margin-top:40px; float:left;}
+.sex2 li{width: 176px;
+	height:36px; text-indent:21px; line-height:36px; font-size:16px; color:#232323;}	
+	.s{ margin-top:50px; }
+.sex2 li:link{color:#232323;}	
+.sex2 li:hover{ background:url(../images/asadz.jpg) no-repeat; color:#FFF;}
+
+.c{ clear:both}
+#di {
+	height: 120px;
+	margin: 0px auto;
+	border: 1px solid #F00;
+	 background:#cccccc;
+}
+.qi{ width:340px; height:34px; margin:0px auto; margin-top:16px; }
+.qis{ font-size:14px; color:#5f5f5f;  margin-right:10px; line-height:70px; }
+.hang{width:250px; height:20px; margin:4px auto;}
+.hang span a:link{ color:#626262}
+.hang span a:hover{ color: #F30}
+.bei{width:460px; height:20px; margin:0px auto;}
