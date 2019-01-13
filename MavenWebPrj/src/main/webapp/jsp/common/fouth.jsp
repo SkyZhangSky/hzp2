@@ -4,9 +4,7 @@
 <title>热门产品介绍</title>
 <link href="../../css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 <link href="../../css/style.css" rel="stylesheet" type="text/css" media="all" /><link href="../../css/firstpage.css" rel="stylesheet" type="text/css" media="all">
-	<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
-	<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Fashion Style Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />

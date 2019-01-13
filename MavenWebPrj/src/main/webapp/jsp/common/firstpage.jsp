@@ -5,15 +5,15 @@
     <title>化妆品商城</title>
     <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
 	<link href="../../css/firstpage.css" rel="stylesheet" type="text/css" media="all">
-	<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
-	<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
    
 </head>
 <body>
+
 <!--导航begin-->
 <%@ include file="../common/nav.jsp"%>
 <!--导航end-->
 
+<!--导航结束-->
 <!--轮播begin-->
 		<div class="container-fluid">
 			<div class="row">
@@ -51,7 +51,7 @@
 						<div class="thumbnail">
 							<img src="../../img/first/t1.png" alt="通用的占位符缩略图" >
 							<div class="caption">
-								<h3 class="text-center">护肤霜：100元</h3>
+								<h3 class="text-center">${list}护肤霜：100元</h3>
 							</div>
 						</div>
 					</div>
@@ -114,7 +114,7 @@
     <hr class="hidden-sm hidden-md hidden-lg">
 </div>
 <div class="col-sm-8">
-    <h2><font color=blightskyblue>关于化妆品的常识</font></h2>
+    <h2><font color=darkorange>关于化妆品的常识</font></h2>
     <h5>摘自：淘宝网</h5>
     <div class="fakeimg"><img src="../../img/first/t6.png"/></div>
  
