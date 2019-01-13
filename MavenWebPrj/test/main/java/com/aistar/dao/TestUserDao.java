@@ -29,7 +29,7 @@ public class TestUserDao {
 
     @Test
     public void testFindByUserName(){
-        User user = userDao.getByUserName("admwwwin");
+        User user = userDao.getByUserName("admin");
         System.out.println(user);
     }
 }

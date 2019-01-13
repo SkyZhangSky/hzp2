@@ -2,6 +2,8 @@ package tech.aistar.dao;
 
 import tech.aistar.entity.User;
 
+import java.util.List;
+
 /**
  * 用户的业务接口
  * 接口是一个契约,规定了主要完成的功能,但是不关注具体怎么去是实现.
@@ -26,4 +28,6 @@ public interface IUserDao {
      */
     User getByUserName(String username);
 
+    User getByUser(String username,String password);
+    List getByUsers(String username,String password);
 }
